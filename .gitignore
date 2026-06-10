@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+runs/
+datasets/
+Detecting-swimming-pools-1/
+auto_labeled*/
+*.pt
+*.onnx
+*.zip
+.DS_Store
+Thumbs.db

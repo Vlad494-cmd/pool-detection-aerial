@@ -1,0 +1,13 @@
+names:
+- pool
+nc: 1
+path: Detecting-swimming-pools-1  # set to your local dataset root (pull from Roboflow)
+roboflow:
+  license: CC BY 4.0
+  project: detecting-swimming-pools
+  url: https://universe.roboflow.com/vladmateis-workspace/detecting-swimming-pools/dataset/1
+  version: 1
+  workspace: vladmateis-workspace
+test: test/images
+train: train/images
+val: valid/images

@@ -1,0 +1,7 @@
+# pin to your versions: pip freeze | grep -iE "ultralytics|torch|opencv"
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+jupyter
